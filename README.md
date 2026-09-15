@@ -1,8 +1,6 @@
 # ResolveAI — AI Customer Support Agent
 
 **Built by Anmol Aryan** · BCA Student, JECRC University  
-**Live demo:** [resolveai-customer-support.anmolaryan009.chatgpt.site](https://resolveai-customer-support.anmolaryan009.chatgpt.site)
-
 ResolveAI is a full-stack, portfolio-ready customer-support workspace. Its assistant, Nova, classifies customer intent, retrieves verified company policy, calls safe order/refund tools, cites its evidence, masks sensitive numbers, and escalates unresolved cases into a persistent ticket inbox.
 
 The project works immediately in deterministic demo mode. Add an OpenAI API key to enable natural-language response polishing through the Responses API; all business decisions remain grounded in verified context and tool results.
